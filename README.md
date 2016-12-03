@@ -5,8 +5,10 @@ This is the project imforamtion and description for SJTU Ali club. Welcome to su
 
 ## Project built Requirements
 
-### Create a repository.
-### Create the readme.md file. It should contain the following information:
+##### Create a repository named as : [Project Name] + [On]/[Off]
+* On means you've decided to start this project and you just need someone who also has the interests.
+* Off means you just give a good idea but you may don't have the time to do it.
+##### Create the readme.md file. It should contain the following information:
 
 * The creater of this project
 
@@ -18,9 +20,9 @@ This is the project imforamtion and description for SJTU Ali club. Welcome to su
 
 * The contact information(wechat recommended)
  
-### Create a file about groupmeeting, it should include the discussing topic and its date.
+##### Create a file about groupmeeting, it should include the discussing topic and its date.
 
-### Fork the project from your own github account.
+##### Fork the project from your own github account.
 
 ## Other 
 
