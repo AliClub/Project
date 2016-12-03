@@ -30,6 +30,8 @@ This is the project imforamtion and description for SJTU Ali club. Welcome to su
 
 ## Other 
 
-* Your group meeting is required. Because there will be few whole club meeting from now on. Also remember to write the date clearly so that if anyone is interested in this topic, though he or she is not in this project group ,it can still come and listen.
+* Your group meeting is required. Because there will be few whole club meeting from now on. Also remember to write the date clearly so that if anyone is interested in this topic, though he or she is not in this project group ,it can still come and listen. You are **encouraged to write a md file of your discussion topic and submit here**
 
 * Thr group discussion related to the topic or not are both ok. Like you could discuss the project or schedule, or you can also just discuss sth about your favourate IDE
+
+* English and Chinese are both ok.
