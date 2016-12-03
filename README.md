@@ -5,10 +5,11 @@ This is the project imforamtion and description for SJTU Ali club. Welcome to su
 
 ## Project built Requirements
 
-##### Create a repository named as : [Project Name] + [On]/[Off]
+##### Create a repository named as : [Project Name] + [On]/[Off]/[Done]
 
 * On means you've decided to start this project and you just need someone who also has the interests.
 * Off means you just give a good idea but you may don't have the time to do it.
+* Done means you have done it before, but you think it will be a good practice for green hands.(Like some simple crawler, website)
 
 ##### Create the description.md file. It should contain the following information:
 
