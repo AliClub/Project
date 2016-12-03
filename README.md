@@ -1,6 +1,6 @@
 # Project
 
-## Inctroduction
+## Introduction
 This is the project imforamtion and description for SJTU Ali club. Welcome to submite your project here. We'll use the github platfrom to submit the project. ( [What's github?](https://guides.github.com/activities/hello-world/) ) 
 
 ## Project built Requirements
