@@ -5,6 +5,7 @@
   ## Requirements
     1. Create a repository.
     2. Create the readme.md file. It should contain the following information:
-    + sdffds
-    + sdfsdfs
-    + sdfsdf
+    3. Item 3
+      * Item 3a
+      * Item 3b
+    
