@@ -1,13 +1,15 @@
 # Project
 
 ## Inctroduction
-This is the project imforamtion and description for SJTU Ali club. Welcome to submite your project here. We'll use the github platfrom to submit the project. ([What's github?](https://guides.github.com/activities/hello-world/))
+This is the project imforamtion and description for SJTU Ali club. Welcome to submite your project here. We'll use the github platfrom to submit the project. ( [What's github?](https://guides.github.com/activities/hello-world/) ) 
 
 ## Project built Requirements
 
 ##### Create a repository named as : [Project Name] + [On]/[Off]
+
 * On means you've decided to start this project and you just need someone who also has the interests.
 * Off means you just give a good idea but you may don't have the time to do it.
+
 ##### Create the readme.md file. It should contain the following information:
 
 * The creater of this project
