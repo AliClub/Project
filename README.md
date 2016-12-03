@@ -18,6 +18,8 @@ This is the project imforamtion and description for SJTU Ali club. Welcome to su
 
 * The schedule and the target
 
+* Skills needed(like:python, Java, xxalgorithms)
+
 * Group discussion topic and date(if any)
 
 * The contact information(wechat recommended)
